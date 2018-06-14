@@ -1,9 +1,8 @@
 <?php
- //Dlfjsljfdslfjsfjlskfjlksdfjlksfjlsdkfj
 
 
 ?>
-<h1 class="Inventory">
+<h1 class="content_header">
   -Inventory-
 </h1>
 <table class="table table-striped table-dark">
