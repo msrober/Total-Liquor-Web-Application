@@ -1,5 +1,6 @@
 <html>
 <head>
+  <!-- Create the header and create all references -->
     <title>Total Liquor</title>
     <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=ABeeZee|Sunflower:300" rel="stylesheet">

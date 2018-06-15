@@ -1,3 +1,4 @@
+<!-- This handles the navigation bar on the website -->
 <nav>
     <ul>
         <li>

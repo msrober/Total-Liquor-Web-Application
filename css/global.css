@@ -79,11 +79,12 @@ select.form-control {
   background: #f4511e;
   color:#fff;
 }
-
+select.form-control.noMargin {
+  margin:0 !important;
+}
 .Customer-content {
   width:60%;
   margin: 0 auto;
-  margin-top: 50px;
 }
 
 .PO_content {
