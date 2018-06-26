@@ -28,7 +28,7 @@
     <form id="firstForm" action="./content/main/insert_data.php" method="POST">
     <div class="form-group">
       <label for="liquorID_Input">Liquor Identification Number</label>
-      <select name = "liquorID_SO" type="text" class="form-control" style="margin:0;" id="liquorID_SO">
+      <select name = "liquorID_Input" type="text" class="form-control" style="margin:0;" id="liquorID_Input">
         <option value="">--Select--</option>
         <!-- This injects all of the liquor names and brand but the actual value being used is the liquor ID -->
         <?php
